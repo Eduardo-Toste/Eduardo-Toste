@@ -1,5 +1,3 @@
-# Olá, me chamo Eduardo Ciochetti Toste!
-
 ###
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eduardo-Toste&show_icons=true&theme=radical)
